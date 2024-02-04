@@ -21,6 +21,14 @@ header {
   height: auto;
 }
 
+.infoheader {
+  background-image: linear-gradient(#297241, #12301a);
+}
+
+.waaromheader {
+  background-image: linear-gradient(#9f7f00, #6c310a);
+}
+
 .terugknop {
   position: absolute;
   top: 12px;
